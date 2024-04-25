@@ -160,13 +160,6 @@ class CartItemCard extends StatelessWidget {
               )
             ],
           ),
-          // Positioned(
-          //   top: 10,
-          //   right: 0,
-          //   child: FavoriteClothButton(
-          //     cloth: cloth,
-          //   ),
-          // ),
         ],
       ),
     );
